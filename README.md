@@ -1,4 +1,4 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/2e9b419f-e36b-47a8-bbc3-a8b4f12bbea1" /># 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 ## 📌 Project Overview
@@ -11,6 +11,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
+<img width="840" height="456" alt="image" src="https://github.com/user-attachments/assets/c3eff73b-ad30-414d-bbd9-ebfbae4a8200" />
+
 
 
 
